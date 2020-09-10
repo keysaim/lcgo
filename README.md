@@ -1,1 +1,1 @@
-# lcgo
+# leetcode in golang
